@@ -2,7 +2,7 @@
 const ListPage = () => {
   return (
     <div>
-      sad
+      List
     </div>
   )
 }
