@@ -2,7 +2,7 @@
 const LoginPage = () => {
   return (
     <div>
-      asdasd
+      Lofin
     </div>
   )
 }
